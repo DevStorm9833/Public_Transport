@@ -31,4 +31,4 @@
 
 - Optional / Future Enhancements
 - - Data saver /normal mode allow user to switch
-- - Language Selector → English + local language
+  - Language Selector → English + local language
