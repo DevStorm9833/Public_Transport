@@ -11,29 +11,18 @@
   - Route Information → route number, stops, estimated travel time
 
 - Status & Alerts Section
+- - Service Alerts / Announcements → delays, diversions, breakdowns
+  - Favorite Routes (if logged in) → user’s saved buses/routes for quick access will be notified 20-30 mins early
+  - Crowd Indicator (optional) → basic info like “Low / Medium / High” occupancy
 
-Service Alerts / Announcements → delays, diversions, breakdowns
+- User Features Section
+- - Login / Register button → commuters & drivers
+  - Feedback button → report an issue or suggest improvement
 
-Crowd Indicator (optional) → basic info like “Low / Medium / High” occupancy
+- Footer
+- - About project / city transport authority
+  - Help / Contact us
+  - Social links / App download links (if mobile app exists)
 
-Informational Section
-
-Bus Stop List (nearby) → with arrival countdown timers
-
-Favorite Routes (if logged in) → user’s saved buses/routes for quick access
-
-User Features Section
-
-Login / Register button → commuters & drivers
-
-Feedback button → report an issue or suggest improvement
-
-Language Selector → English + local language
-
-Footer
-
-About project / city transport authority
-
-Help / Contact us
-
-Social links / App download links (if mobile app exists)
+- Optional / Future Enhancements
+- - Language Selector → English + local language
