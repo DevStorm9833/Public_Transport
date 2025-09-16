@@ -1,8 +1,17 @@
 # Public_Transport
 
-- Search bar / dropdown → enter/select city or bus route
+<--- Navbar --->
 
-- Quick Action Buttons → “Track My Bus” , “Search Route” , “View All Buses”
+- Quick Action Buttons
+- - “Track My Bus”
+  - “View All Buses”
+  - Search bar → select city or bus route
+
+- User Features Section
+- - Login / Register button → commuters & drivers
+  - Feedback button → report an issue or suggest improvement
+
+<--- Main Sections --->
 
 - Live Tracking Section
 - - Interactive Map → shows bus icons moving in real-time
@@ -14,10 +23,6 @@
 - - Service Alerts / Announcements → delays, diversions, breakdowns
   - Favorite Routes (if logged in) → user’s saved buses/routes for quick access will be notified 20-30 mins early
   - Crowd Indicator (optional) → basic info like “Low / Medium / High” occupancy
-
-- User Features Section
-- - Login / Register button → commuters & drivers
-  - Feedback button → report an issue or suggest improvement
 
 - Footer
 - - About project / city transport authority
