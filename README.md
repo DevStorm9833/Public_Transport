@@ -30,4 +30,5 @@
   - Social links / App download links (if mobile app exists)
 
 - Optional / Future Enhancements
+- - Data saver /normal mode allow user to switch
 - - Language Selector → English + local language
