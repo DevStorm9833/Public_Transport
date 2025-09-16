@@ -4,13 +4,7 @@ Search bar / dropdown → enter/select city or bus route
 
 Current Location Data → nearest bus stop, live buses nearby
 
-Quick Action Buttons →
-
-“Track My Bus”
-
-“Search Route”
-
-“View All Buses”
+Quick Action Buttons → “Track My Bus” , “Search Route” , “View All Buses”
 
 Live Tracking Section
 
