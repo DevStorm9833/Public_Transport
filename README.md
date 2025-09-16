@@ -1,20 +1,16 @@
 # Public_Transport
 
-Search bar / dropdown → enter/select city or bus route
+- Search bar / dropdown → enter/select city or bus route
 
-Current Location Data → nearest bus stop, live buses nearby
+- Quick Action Buttons → “Track My Bus” , “Search Route” , “View All Buses”
 
-Quick Action Buttons → “Track My Bus” , “Search Route” , “View All Buses”
+- Live Tracking Section
+- - Interactive Map → shows bus icons moving in real-time
+  - Current Location Data → nearest bus stop, live buses nearby
+  - ETA Cards → next buses with arrival times (like Ola/Uber style)
+  - Route Information → route number, stops, estimated travel time
 
-Live Tracking Section
-
-Interactive Map → shows bus icons moving in real-time
-
-ETA Cards → next buses with arrival times (like Ola/Uber style)
-
-Route Information → route number, stops, estimated travel time
-
-Status & Alerts Section
+- Status & Alerts Section
 
 Service Alerts / Announcements → delays, diversions, breakdowns
 
